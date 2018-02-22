@@ -1,33 +1,40 @@
 company:
-  name: Team Awesome
-  logo: Cornell_NYC_Tech_logo.png
-product_hmw: How might we showcase Cornell Tech students work?
+  name: Collectibles on the Blockchain
+  logo: Cornell_NYC_Tech_logo.jpg
+product_hmw: How might we help digital content creators monetize their work ?
 tags:
-  - VR
-  - Health Tech
-  - Academia
+  - Digital content
+  - Blockchain
+  - Collectibles
 
 product_narrative: |
-  Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
-  With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
+  Micro crowdfunding platform for digital creators
 team:
-  picture: E383E868-.jpg
+  picture: 
   roster:
-  - name: Rachel Sobel
-    email: rachel.sobel.cornell@gmail.com
-    picture: rachel.jpg
+  - name: Zeeshan Hanif
+    email: zh278@cornell.edu
+    picture: zee.png
+    program: CS
+  - name: Bensu Aydin
+    email: ba369@cornell.edu
+    picture: bensu.png
     program: LLM
-  - name: Arnaud Sahuguet
-    email: arnaud.sahuguet@cornell.edu
-    picture: arnaud.png
+  - name: Nate Maddrey
+    email: ncm64@cornell.edu
+    picture: nate.png
+    program: MBA
+  - name: Josy Hamren
+    email: jmh463@cornell.edu
+    picture: josy.png
     program: MBA
 
 assets:
 - title: Sprint 1
   url: http://cornelltech.io/spice-up-your-personal-privacy-with-pepr/
 - title: Sprint 2
-  url: http://cornelltech.io/health-apps-on-steroids/
+  url: 
 - title: Sprint 3
-  url: http://cornelltech.io/storybot/
+  url: 
 - title: Final
-  url: http://cornelltech.io/storybot/
+  url: 
